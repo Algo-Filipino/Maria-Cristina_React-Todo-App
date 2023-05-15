@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Maria-Cristina_React-Todo-App/static/css/main.88e56cd5.css",
+    "main.js": "/Maria-Cristina_React-Todo-App/static/js/main.8218c7d8.js",
+    "index.html": "/Maria-Cristina_React-Todo-App/index.html",
+    "main.88e56cd5.css.map": "/Maria-Cristina_React-Todo-App/static/css/main.88e56cd5.css.map",
+    "main.8218c7d8.js.map": "/Maria-Cristina_React-Todo-App/static/js/main.8218c7d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88e56cd5.css",
+    "static/js/main.8218c7d8.js"
+  ]
+}
